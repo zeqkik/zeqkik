@@ -14,5 +14,5 @@ I'm Ezequiel Caldeira de Almeida, 22, Mecathronics Engineering student and resea
 - Frontend:
 <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/><img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
-### Projects
+### Projects:
 I'm actually in a research with the [Information & Networking Technologies Research and Innovation Group. ](https://intrig.dca.fee.unicamp.br/). Working in a Network Loop Platform for 4G/5G streaming. 
