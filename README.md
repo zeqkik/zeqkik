@@ -1,6 +1,6 @@
 # Ezequiel Almeida's GitHub Portfolio
 
-Welcome to my GitHub portfolio! I'm Ezequiel Almeida, a passionate Data Scientist and Control and Automation Engineering student at Universidade Estadual de Campinas. This repository showcases my projects, skills, and contributions to various fields, including data science, machine learning, and software development.
+Welcome to my GitHub portfolio! I'm Ezequiel Almeida, a passionate Data Scientist and Control and Automation Engineering student at Universidade Estadual de Campinas. This repository showcases my projects.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
