@@ -1,18 +1,56 @@
-# Hello! Welcome to Zeq's Github! :alien:
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/zeqkik)](https://github.com/zeqkik)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ezequiel-almeida//)](https://www.linkedin.com/in/ezequiel-almeida/)
-### About Me
-I'm Ezequiel Caldeira de Almeida, 22, Mecathronics Engineering student and reseacher at **Universidade Estadual de Campinas** and a begginer developer.
+# Ezequiel Almeida's GitHub Portfolio
 
-![Alt Text](https://i.pinimg.com/originals/85/76/10/857610b192b42ea71d293aa00b21a7ee.gif)
+Welcome to my GitHub portfolio! I'm Ezequiel Almeida, a passionate Data Scientist and Control and Automation Engineering student at Universidade Estadual de Campinas. This repository showcases my projects, skills, and contributions to various fields, including data science, machine learning, and software development.
 
-### Tecnologies in learning :computer: :
-<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/><img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-- DataScience:
-<img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" /><img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-- Frontend:
-<img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/><img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-00C7B7?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data_Science-4CAF50?style=for-the-badge&logo=Jupyter&logoColor=white)
 
-### Projects:
-I'm currently in a research with the [Information & Networking Technologies Research and Innovation Group. ](https://intrig.dca.fee.unicamp.br/). Working in a Network Loop Platform for 4G/5G streaming. 
+## About Me
+
+Hello, I'm Ezequiel. I have a strong interest in data science, machine learning, and software development. I find it fascinating to solve intricate problems through data-driven solutions. My academic background in Control and Automation Engineering has provided me with a solid foundation in analytical thinking and problem-solving skills.
+
+## Knowledge and Skills
+
+- **Data Analysis and Visualization**: Proficient in using Python libraries such as Pandas, Matplotlib, and Seaborn for data manipulation and visualization. Experienced with SQL for data extraction and Looker Studio/Power BI for creating interactive dashboards.
+- **Machine Learning and Deep Learning**: Skilled in developing machine learning models using Scikit-learn, and deep learning models with Keras and TensorFlow. Experienced in preprocessing data, feature engineering, model training, and evaluation.
+- **Software Development**: Strong programming skills in Java and Python. Experienced in developing APIs using Flask and working with various development tools and frameworks.
+- **Project Management**: Experience in managing product backlogs, prioritizing tasks, and collaborating with cross-functional teams to deliver high-quality software solutions.
+
+## Projects
+
+Here are a few highlights of my projects:
+
+- **Prediction Model for Combustion Engines**: Developed a prediction model using AI algorithms for combustion engines with an intelligent injection system. Implemented data preprocessing, exploratory data analysis, neural network development, and hyperparameter optimization.
+- **5G Network Simulation**: Worked on a 5G network simulation project focusing on predicting Quality of Experience (QoE) and Quality of Service (QoS) using machine learning algorithms.
+- **ETL Processes and Data Visualization**: Implemented ETL processes to extract, clean, and prepare data for analysis. Created interactive dashboards using Looker Studio and Power BI to support data-driven decision-making.
+
+## Education
+
+### Universidade Estadual de Campinas
+**Bachelor's in Mechatronics, Robotics, and Control and Automation Engineering**  
+*2018 - July 2024*
+
+## Certifications
+
+- Fundamentals of Scrum
+- AWS Educate Introduction to Cloud 101
+- Spark - Level 1
+- Deep Learning And Applications
+- Discover Azure DevOps
+
+## Languages
+
+- Spanish (Full Professional)
+- English (Full Professional)
+
+## Contact
+
+- Email: [ezequielcalmeida@gmail.com](mailto:ezequielcalmeida@gmail.com)
+- LinkedIn: [linkedin.com/in/ezequiel-almeida](https://www.linkedin.com/in/ezequiel-almeida)
+- GitHub: [github.com/zeqkik](https://github.com/zeqkik)
+
+Feel free to explore my repositories and projects to learn more about my work and interests. Contributions and collaborations are always welcome!
+
